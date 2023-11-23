@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&duration=3000&pause=1000&color=&width=435&lines=Hi+Devs%2C+I'm+Gabriel)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&duration=3000&pause=1000&color=4A26AA&width=435&lines=Hi+Devs%2C+I'm+Gabriel)](https://git.io/typing-svg)
 
 <!--
 **GabrielLimaG3/GabrielLimaG3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
