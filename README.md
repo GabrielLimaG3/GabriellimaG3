@@ -4,7 +4,6 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielLimaG3&show_icons=true&theme=ambient_gradient)
 ###
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielLimaG3&layout=compact)
-![snake gif](https://github.com/GabrielLimaG3/GabrielLimaG3/blob/output/github-contribution-grid-snake.svg)
 
 <!--
 **GabrielLimaG3/GabrielLimaG3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
