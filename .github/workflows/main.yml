@@ -23,7 +23,7 @@ jobs:
       - uses: Platane/snk@v2
         id: bylickilabs-Snake
         with:
-          github_user_name: GabrielLimaG3
+          github_user_name: GabrielLimaG3/GabrielLimaG3
           outputs: |
                      dist/github-snake-dark.svg?palette=github-dark
 
