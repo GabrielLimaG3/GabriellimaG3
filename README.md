@@ -1,7 +1,7 @@
 
 
 <div>
-  <img align="left" height="140px" src="assets/Streamer Pixel Art.gif"/>
+  <img align="left" height="160px" src="assets/Streamer Pixel Art.gif"/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&duration=3000&pause=1000&color=1F63A2&width=435&lines=Olá+eu+sou+o+Gabriel)](https://git.io/typing-svg)
   
