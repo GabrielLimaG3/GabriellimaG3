@@ -4,7 +4,6 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&duration=3000&pause=1000&color=4A26AA&width=435&lines=Hi+Devs%2C+I'm+Gabriel)](https://git.io/typing-svg)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielLimaG3&show_icons=true&theme=ambient_gradient)
-###
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielLimaG3&layout=compact)
 
 <!--
