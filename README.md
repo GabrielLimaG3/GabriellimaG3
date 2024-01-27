@@ -12,4 +12,3 @@
 
 - 🖥 Atualmente estou trabalhando em projetos pessoais
 
-- ![Snake animation](https://github.com/GabrielLimaG3/GabrielLimaG3/blob/output/github-contribution-grid-snake-dark.svg)
