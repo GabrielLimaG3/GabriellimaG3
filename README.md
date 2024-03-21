@@ -1,5 +1,5 @@
-<div padding>
-  <h1>Gabriel Lima</h1>
+<div>
+  <h1>Olá, meu nome é  Gabriel Lima</h1>
     <img align="right" height="160px" src="assets/Streamer Pixel Art.gif"/>
 
   <p align="justify">Olá, eu sou o Gabriel, um entusiasta de programação que teve a sorte de descobrir esse universo fascinante desde a infância.
