@@ -16,7 +16,7 @@
   -   Atualmente estou trabalhando em projetos pessoais.
   -   Sempre Elevando Meu Conhecimento e Minhas Habilidades
 
-  <div align="right">Bem Vindo 🚀</a>.</div>
+  <div align="right">Bem Vindo 🚀</div>
 </details>
 </div>
 
