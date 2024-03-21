@@ -1,14 +1,22 @@
+<div padding>
+  <h1>Gabriel Lima</h1>
+    <img align="right" height="160px" src="assets/Streamer Pixel Art.gif"/>
+
+  <p align="justify">Olá, eu sou o Gabriel, um entusiasta de programação que teve a sorte de descobrir esse universo fascinante desde a infância.
+  <br>
+  <br>
+  entusiasmado com a ideia de dar vida a algo. programa não é apenas um hobby para mim, é uma paixão que me acompanha desde a infância</p>
 
 
-<div>
-  <img align="left" height="160px" src="assets/Streamer Pixel Art.gif"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&duration=3000&pause=1000&color=1F63A2&width=435&lines=Olá+eu+sou+o+Gabriel)](https://git.io/typing-svg)
-  
-  E aí, eu sou o Gabriel, um entusiasta de programação que teve a sorte de descobrir esse universo fascinante desde a infância. Lembro-me vividamente do momento em que escrevi minhas primeiras linhas de código, curioso e
-  entusiasmado com a ideia de dar vida a algo, Comecei minha jornada como um pequeno explorador digital, quando ainda era criança, programa não é apenas um hobby para mim, é uma paixão que me acompanha desde a infância.
+<details>
+  <summary></summary> 
+
+  -   Buscando Alcançar Novos Patamares
+  -   Atualmente estou trabalhando em projetos pessoais.
+  -   Sempre Elevando Meu Conhecimento e Minhas Habilidades
+
+  <div align="right">Bem Vindo 🚀</a>.</div>
+</details>
 </div>
-<img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />
-
-- 🖥 Atualmente estou trabalhando em projetos pessoais
 
