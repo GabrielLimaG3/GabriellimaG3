@@ -1,5 +1,5 @@
 <div>
-  <h1>Olá, eu sou o ransky</h1>
+  <h1>Olá, eu sou o Ransky</h1>
     <img align="right" height="160px" src="assets/Streamer Pixel Art.gif"/>
 
   <p align="justify">Olá, sou um entusiasta que teve a sorte de descobrir <br> esse universo fascinante desde a infância. <br><br> motivado com a ideia de dar vida a algo alem de entender<br> como as coisas funcionavam. programa e cibersegurança não<br> é apenas um hobby para mim, é uma paixão que me <br>acompanha desde a infância</p>
