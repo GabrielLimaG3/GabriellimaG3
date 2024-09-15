@@ -2,8 +2,6 @@
   <h1>Olá, eu sou o Ranskyth</h1>
     <img align="right" height="160px" src="assets/Streamer Pixel Art.gif"/>
 
-  <p align="justify">Olá, sou um entusiasta que teve a sorte de descobrir <br> esse universo fascinante desde a infância. <br><br> motivado com a ideia de dar vida a algo alem de entender<br> como as coisas funcionavam. programa e cibersegurança não<br> é apenas um hobby para mim, é uma paixão que me <br>acompanha desde a infância</p>
-
   <h3>Contatos</h3>
 
   [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/whoami9696/)
@@ -24,17 +22,4 @@
   ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
   ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
   ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-
-
-
-<details>
-  <summary></summary> 
-  
-  -  Atualmente Estou trabalhando em Projetos Pessoais.
-  -  Contribuindo em Alguns Projetos
-    
-  <div align="right">Bem Vindo 🚀</div>
-</details>
-</div>
 
