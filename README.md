@@ -10,6 +10,6 @@
 
 <hr>
 
-![Ranskyth's github stats](https://github-readme-stats.vercel.app/api?username=GabrielLimaG3&show_icons=true&theme=radical)
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielLimaG3&layout=compact&langs_count=7&bg_color=0D1117&title_color=fffefe"/>
 
 </h1>
