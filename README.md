@@ -3,7 +3,7 @@
 <br>
 <h1 align="center">
     
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&duration=2200&pause=850&color=fffefe&width=158&lines=Hey+Guys)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Press+Start+2P&duration=2200&pause=850&color=fffefe&width=198&lines=Hello+Guys)](https://git.io/typing-svg)
   
 </h1>
   
