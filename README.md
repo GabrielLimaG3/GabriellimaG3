@@ -8,7 +8,7 @@
 </h1>
   
   - Programador e Hacker.<br> 
-  - Progamo em C#, .NET, SHELL, Python, Javascript, TypeScript<br>
+  - Programo em C#, .NET, SHELL, Python, Javascript, TypeScript<br>
   - GNU/Debian<br>
 
 <hr>
