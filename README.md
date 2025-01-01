@@ -13,6 +13,6 @@
 
 <hr>
 
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielLimaG3&layout=compact&langs_count=7&bg_color=0D1117&title_color=fffefe"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ranskyth&layout=compact&langs_count=7&bg_color=0D1117&title_color=fffefe"/>
 
 </h1>
